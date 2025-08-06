@@ -1,3 +1,4 @@
+단일 노드만 성공한거임
 일단 끊어서 포크한 기점은 86367임
 
 original bitcoin getblock 86366
